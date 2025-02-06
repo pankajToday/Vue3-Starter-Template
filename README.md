@@ -1,10 +1,10 @@
 # Day Book
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more. pre-configured with ESLint, Prettier, Router and more that makes your development experience smooth and enjoyable and also provides a great developer experience. It's a great starting point for building your Vue 3 application. so you can focus on building your application without worrying about the setup. 
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more. pre-configured with ESLint, Prettier, Router and more that makes  development experience smooth and enjoyable and also provides a great developer experience. It's a great starting point for building  Vue 3 application. so you can focus on building application without worrying about the setup. 
 
 To use this template, simply clone the repository and run `npm install` to install the dependencies. Then, run `npm run dev` to start the development server.
 
-Name : `Day Book` used because it is a simple app that helps you keep track of your daily activities of kirana and related stufs. It is a simple app that helps you keep track of your daily sale , purchases and other tasks. main code is not added here because i want to keep it private. so basic template  is added here.
+Name : `Day Book` used because it is a simple app that helps you keep track of our daily activities of kirana and related stufs. It is a simple app that helps us keep track of our daily sales , purchase and other tasks. main code is not added here because i want to keep it private. so basic template  is added here.
 
 # Day Book Starter Template
 A comprehensive, production-ready Vue 3 project template with pre-configured essential packages, authentication, and responsive layouts. Perfect for quickly bootstrapping modern Vue.js applications with best practices and commonly needed features.
