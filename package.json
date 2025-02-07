@@ -11,6 +11,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+     "@emailjs/browser": "^4.4.1",
+    "@inertiajs/vue3": "^2.0.3",
     "@tinymce/tinymce-vue": "^5.0.0",
     "@vueform/multiselect": "^2.5.7",
     "@vuepic/vue-datepicker": "^3.5.3",
